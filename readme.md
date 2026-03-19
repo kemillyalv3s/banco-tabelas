@@ -10,3 +10,4 @@ nome texto
 codigo int8,
 nome texto,
 telefone texto
+sexo texto
