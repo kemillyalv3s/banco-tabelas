@@ -11,3 +11,7 @@ codigo int8,
 nome text,
 telefone text
 sexo text
+
+### Endereço
+codigo int8
+rua text
