@@ -12,6 +12,12 @@ nome text,
 telefone text
 sexo text
 
+### Recebimentos
+codigo int8,
+nome text,
+descricao text,
+data, date
+
 ### Endereço
 codigo int8
 rua text
